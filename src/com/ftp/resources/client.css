@@ -1,0 +1,7 @@
+.list-view {
+    -fx-control-inner-background-alt: -fx-control-inner-background ;
+}
+
+.list-cell:selected {
+    -fx-background-color: transparent;
+}
